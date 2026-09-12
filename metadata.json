@@ -1,0 +1,7 @@
+{
+  "name": "Kiosqly: ¿Quién Paga la Próxima Ronda?",
+  "description": "Juegos multijugador en vivo para mesas con temática de quién paga la ronda, banderas por geolocalización, idiomas y sala privada VIP con Dominó, juegos de azar y marcadores de plataformas en tiempo real.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
